@@ -5,7 +5,7 @@ replace github.com/maximhq/bifrost/core => ../core
 go 1.27.0
 
 require (
-	github.com/andybalholm/brotli v1.2.2
+	github.com/andybalholm/brotli v1.2.8
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.10
 	github.com/bytedance/sonic v1.15.3-0.20260730064818-2a36d6da63e2
 	github.com/fasthttp/router v1.5.4
@@ -15,7 +15,7 @@ require (
 	github.com/golang-jwt/jwt/v5 v5.3.1
 	github.com/google/pprof v0.0.0-20260802141513-ef3492d7dac3
 	github.com/google/uuid v1.6.0
-	github.com/klauspost/compress v1.20.0
+	github.com/klauspost/compress v1.20.3
 	github.com/mark3labs/mcp-go v0.43.2
 	github.com/maximhq/bifrost/core v1.9.0
 	github.com/maximhq/bifrost/framework v1.7.0
@@ -39,8 +39,8 @@ require (
 	github.com/tidwall/sjson v1.2.5
 	github.com/valyala/fasthttp v1.74.0
 	go.uber.org/automaxprocs v1.6.0
-	golang.org/x/sync v0.22.0
-	golang.org/x/text v0.41.0
+	golang.org/x/sync v0.24.0
+	golang.org/x/text v0.43.0
 	gorm.io/driver/sqlite v1.6.0
 	gorm.io/gorm v1.31.1
 )
@@ -226,11 +226,11 @@ require (
 	go.yaml.in/yaml/v2 v2.4.3 // indirect
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
 	golang.org/x/arch v0.23.0 // indirect
-	golang.org/x/crypto v0.55.0 // indirect
+	golang.org/x/crypto v0.58.0 // indirect
 	golang.org/x/exp v0.0.0-20260410095643-746e56fc9e2f // indirect
-	golang.org/x/net v0.58.0 // indirect
+	golang.org/x/net v0.62.0 // indirect
 	golang.org/x/oauth2 v0.36.0 // indirect
-	golang.org/x/sys v0.47.0 // indirect
+	golang.org/x/sys v0.49.0 // indirect
 	golang.org/x/time v0.15.0 // indirect
 	google.golang.org/api v0.282.0 // indirect
 	google.golang.org/genproto v0.0.0-20260319201613-d00831a3d3e7 // indirect

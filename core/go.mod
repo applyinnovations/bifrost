@@ -6,7 +6,7 @@ require (
 	cloud.google.com/go v0.123.0
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.20.0
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.13.1
-	github.com/andybalholm/brotli v1.2.2
+	github.com/andybalholm/brotli v1.2.8
 	github.com/aws/aws-sdk-go-v2 v1.42.0
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.10
 	github.com/aws/aws-sdk-go-v2/config v1.32.14
@@ -20,7 +20,7 @@ require (
 	github.com/golang-jwt/jwt/v5 v5.3.1
 	github.com/google/uuid v1.6.0
 	github.com/hajimehoshi/go-mp3 v0.3.4
-	github.com/klauspost/compress v1.20.0
+	github.com/klauspost/compress v1.20.3
 	github.com/mark3labs/mcp-go v0.43.2
 	github.com/rs/zerolog v1.34.0
 	github.com/stretchr/testify v1.11.1
@@ -29,7 +29,7 @@ require (
 	github.com/valyala/fasthttp v1.74.0
 	go.starlark.net v0.0.0-20260102030733-3fee463870c9
 	golang.org/x/oauth2 v0.36.0
-	golang.org/x/text v0.41.0
+	golang.org/x/text v0.43.0
 )
 
 require (
@@ -73,9 +73,9 @@ require (
 	github.com/wk8/go-ordered-map/v2 v2.1.8 // indirect
 	github.com/yosida95/uritemplate/v3 v3.0.2 // indirect
 	golang.org/x/arch v0.23.0 // indirect
-	golang.org/x/crypto v0.55.0 // indirect
-	golang.org/x/net v0.58.0 // indirect
-	golang.org/x/sys v0.47.0 // indirect
+	golang.org/x/crypto v0.58.0 // indirect
+	golang.org/x/net v0.62.0 // indirect
+	golang.org/x/sys v0.49.0 // indirect
 	google.golang.org/protobuf v1.36.12-0.20260120151049-f2248ac996af // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
